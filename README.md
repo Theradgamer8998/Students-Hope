@@ -1,2 +1,2 @@
 # Students-Hope
-A repository of game websites I create.
+A repository of games. And sometimes other random junk. I dunno.
